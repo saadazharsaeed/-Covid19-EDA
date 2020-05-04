@@ -6,7 +6,6 @@ I'm not sure regarding the privacy policy of the dataset therefore it isn't uplo
 https://www.kaggle.com/roche-data-science-coalition/uncover
 
 Let’s try to answer few basic questions with regards to virus spread
-
 Which region which is most effected by Covid-19?
 How genders are effected by the virus in the world?
 Which age group is effected by the virus in the world?
