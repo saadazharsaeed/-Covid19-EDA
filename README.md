@@ -1,5 +1,5 @@
 # Covid19-EDA
-The dataset used for this exercises is a part of Uncover Covid-19 Chanllenge at Kaggle. 
+The dataset used for this exercises is a part of Uncover Covid-19 Challenge at Kaggle. 
 I'm using a subpart of that dataset with the name of the directory "nextstrain". 
 We are going to use pandas for the analysis, while seaborn and matplotlib are used for the visualization.
 I'm not sure regarding the privacy policy of the dataset therefore it isn't uploaded here following is the link to the dataset:
