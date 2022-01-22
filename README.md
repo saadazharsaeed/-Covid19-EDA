@@ -7,9 +7,3 @@ Which are the top ten countries fighting Covid-19?
 What is the status of virus spread in the Divisions of Top 10 countries? 
 What is the status of virus spread in the Divisions of Top 10 countries based on their genders? 
 What is the status of virus spread in the Divisions of Top 10 countries based on their age groups?
-Let's start by importing useful libraries:
-```
-%matplotlib inline import numpy as np import pandas as pd 
-import matplotlib.pyplot as plt
-import seaborn as sns import datetime
-```
